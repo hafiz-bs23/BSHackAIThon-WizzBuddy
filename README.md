@@ -35,6 +35,10 @@ The primary objective of WizzBuddy is to create an intuitive and reliable chatbo
 
 4. Enhanced Collaboration with Microsoft Teams: By integrating with Microsoft Teams, WizzBuddy becomes an integral part of the collaboration platform. Users can leverage WizzBuddy's conversational abilities within Teams to streamline communication, seek information, and enhance productivity.
 
+## Architecture
+
+![MarineGEO circle logo](/WizzBuddy.drawio.png "MarineGEO logo")
+
 ## Conclusion
 
 WizzBuddy represents a significant advancement in the field of conversational AI, combining the power of the OpenAI model and pre-trained data to deliver an exceptional chatbot experience. With its web application accessibility and integration with Microsoft Teams, WizzBuddy aims to provide users with an intelligent, personalized, and convenient conversational companion. Whether seeking information, engaging in discussions, or improving collaboration, WizzBuddy is poised to become an invaluable
