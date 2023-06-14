@@ -1,3 +1,9 @@
 [submodule "WizzBuddyMSTeamsBot"]
 	path = WizzBuddyMSTeamsBot
 	url = https://github.com/jafrulbs23/WizBuddy.git
+[submodule "WizzBuddyEngine"]
+	path = WizzBuddyEngine
+	url = https://github.com/hafiz-bs23/WizzBuddy.git
+[submodule "WizzBuddyWeb"]
+	path = WizzBuddyWeb
+	url = https://github.com/hafiz-bs23/chat.wizbuddy.git
