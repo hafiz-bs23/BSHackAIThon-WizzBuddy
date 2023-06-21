@@ -5,11 +5,17 @@
 
 Welcome to the world of WizzBuddy, your intelligent chatbot companion powered by the cutting-edge **OpenAI** model.
 WizzBuddy is designed to provide users with an exceptional conversational experience,
-leveraging the power of pre-trained data and the convenience of web and Microsoft Teams integration. With its advanced conversational capabilities, WizzBuddy aims to revolutionize the way we interact and seek information.
+leveraging the power of pre-trained data and the convenience of 
+**Web** and **Microsoft Teams** integration.
+With its advanced conversational capabilities,
+WizzBuddy aims to revolutionize the way we interact and seek information.
 
 ## Problem Statement
-
-Traditional chatbots often struggle to understand nuanced queries, deliver accurate responses, and provide a seamless conversational experience. Users often encounter limitations, leading to frustration and diminished user engagement. There is a need for an intelligent chatbot that can comprehend complex conversations, leverage pre-trained data, and integrate seamlessly with popular platforms.
+Asking same questions on specific topic by many users is a common way of knowledge gathering.
+Representative, Support desk agents are the main point of contact for those information. 
+For humans, this **repetitive** questions and concerns turns out to be boring and time-consuming.
+They can't focus on other critical and creative tasks. This also impact on the service they provide to his questioner.
+Let's machine take over the burden.
 
 ## Objective
 
@@ -35,9 +41,40 @@ The primary objective of WizzBuddy is to create an intuitive and reliable chatbo
 
 4. Enhanced Collaboration with Microsoft Teams: By integrating with Microsoft Teams, WizzBuddy becomes an integral part of the collaboration platform. Users can leverage WizzBuddy's conversational abilities within Teams to streamline communication, seek information, and enhance productivity.
 
+## Why Fine-Tuned ChatBot?
+1. Complete customization.
+2. Data sensitivity and compliance.
+3. Domain Specific knowledge.
+4. Enhance Performance.
+5. Scalability.
+6. Improved user experience.
+
 ## Architecture
 
 ![MarineGEO circle logo](/WizzBuddy.drawio.png "MarineGEO logo")
+
+## Goals
+- [x] Data Collection
+- [x] **Cleaning** and **Pre-processing** Data.
+- [x] Preparing and Loading **AI Models**.
+- [x] **Pre-Train** OpenAI Model with dataset.
+- [x] Create **API Service** to interact with Model.
+- [x] Implement **web application** with user Authentication
+- [x] Implement **Microsoft Teams** chatbot.
+- [ ] **Chat History** based interaction.
+- [ ] Implement **OAuth** for API Consumption.
+- [ ] Use GPTCache for better performance.
+- [ ] Implement continues fine-tuning on update on DataSet.
+
+## Technology Used
+- [x] Python 3
+- [x] Scrapy
+- [x] LangChain
+- [x] OpenAI
+- [x] FastAPI
+- [x] VueJS
+- [x] Microsoft Toolkit
+- [x] JavaScript
 
 ## Conclusion
 
