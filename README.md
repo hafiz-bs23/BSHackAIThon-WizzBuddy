@@ -76,6 +76,11 @@ The primary objective of WizzBuddy is to create an intuitive and reliable chatbo
 - [x] Microsoft Toolkit
 - [x] JavaScript
 
+## Milestone
+- [x] Milestone 1 - Initial development
+- [ ] Milestone 2 - Security Enhancement (Keycloak - OAuth2 and OIDC Integration)
+- [ ] Milestone 3 - Subscription Model
+
 ## Conclusion
 
 WizzBuddy represents a significant advancement in the field of conversational AI, combining the power of the OpenAI model and pre-trained data to deliver an exceptional chatbot experience. With its web application accessibility and integration with Microsoft Teams, WizzBuddy aims to provide users with an intelligent, personalized, and convenient conversational companion. Whether seeking information, engaging in discussions, or improving collaboration, WizzBuddy is poised to become an invaluable
